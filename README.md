@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-</head><img src="https://github.com/BalaMahesh-04/profile.jpg/blob/main/profile..jpg lenth 100px width 100px">
+</head><img src="https://github.com/BalaMahesh-04/profile.jpg/blob/main/profile..jpg lenth 100px width 100px  align=right ">
 <body>
   <header>
     <h1>BalaMahesh</h1>
