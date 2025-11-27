@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
  
 </head>
-<body>
-  <header><img src="https://github.com/BalaMahesh-04/profile.jpg/blob/main/profile..jpg lenth=100px width=100px  align=right ">
+<body><img src="https://github.com/BalaMahesh-04/profile.jpg/blob/main/profile..jpg lenth=100px width=100px  align=right ">
+  <header>
     <h1>BalaMahesh</h1>
     <p>Fresher | Aspiring Software Developer | Computer Science</p>
   </header>
