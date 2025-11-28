@@ -11,7 +11,7 @@
 <body>
   <header>
     <h1>BalaMahesh</h1>
- <img src="profile.jpg" width="100" height="100">
+ <img src="profile.jpg" style="width:100px;height="100px">
     <p>Fresher | Aspiring Software Developer | Computer Science</p>
   </header>
   <main>
