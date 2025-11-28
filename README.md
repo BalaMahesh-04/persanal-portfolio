@@ -84,6 +84,7 @@
         <li>Email: <a href="mailto:balamaheshkaki04@gmail.com">balamaheshkaki04@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/kaki-bala-mahesh-3920322b8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">linkedin.com/in/yourprofile</a></li>
         <li>GitHub: <a href="https://github.com/BalaMahesh-04" target="_blank">github.com/BalaMahesh-04</a></li>
+         <li>GitHub: <a href="https://www.instagram.com/mahesh__62348?igsh=MXc5a283em0zZXE3OQ==" target="_blank">Balamahesh_62348</a></li>
       </ul>
       <a href="https://1drv.ms/w/c/ac2143f9ead5a728/IQCd4uPZXSQdTZNhRWMq8--bASg9IG7Qp5UYG-vdYuRFOUs?e=6h645d" class="download-btn" download>Download Resume PDF</a>
     </div>
