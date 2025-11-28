@@ -27,12 +27,12 @@
       <h2>Skills</h2>
       <div class="labels">
        <ul><li> <span>Python</span</li> 
-       <li>  <span>Java</span></li> 
+       <li>  <span>Java(Basic)</span></li> 
        <li>  <span>HTML/CSS</span></li> 
        <li>  <span>C</span></li> 
        <li>  <span>SQL</span></li> 
-       <li>  <span>Communication</span></li> 
-      <li>   <span>Teamwork</span></li> </ul>
+       <li>  <span>Linux,Git</span></li> 
+      <li>   <span>JavaScript</span></li> </ul>
       </div>
     </div>
     <div class="card">
