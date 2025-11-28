@@ -83,7 +83,7 @@
         <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></li>
         <li>GitHub: <a href="https://github.com/BalaMahesh-04" target="_blank">github.com/BalaMahesh-04</a></li>
       </ul>
-      <a href="resume.pdf" class="download-btn" download>Download Resume PDF</a>
+      <a href="https://1drv.ms/w/c/ac2143f9ead5a728/IQCd4uPZXSQdTZNhRWMq8--bASg9IG7Qp5UYG-vdYuRFOUs?e=6h645d" class="download-btn" download>Download Resume PDF</a>
     </div>
   </main>
   <div class="footer">
