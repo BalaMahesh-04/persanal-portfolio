@@ -53,6 +53,7 @@
       <ul>
         <li>Python (Infosis Spring Board)</li>
         <li>Web Development Bootcamp (Udemy)</li>
+        <li>HTML & CSS (Guvi)</li>
       </ul>
     </div>
     <div class="card">
@@ -81,7 +82,7 @@
     <div class="card">
       <h2>Contact</h2>
       <ul>
-        <li>Email: <a href="mailto:balamaheshkaki04@gmail.com">balamaheshkaki04@gmail.com</a></li>
+        <li>Gmail: <a href="mailto:balamaheshkaki04@gmail.com">balamaheshkaki04@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/kaki-bala-mahesh-3920322b8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">linkedin.com/in/yourprofile</a></li>
         <li>GitHub: <a href="https://github.com/BalaMahesh-04" target="_blank">github.com/BalaMahesh-04</a></li>
          <li>Instagram: <a href="https://www.instagram.com/mahesh__62348?igsh=MXc5a283em0zZXE3OQ==" target="_blank">Balamahesh_62348</a></li>
