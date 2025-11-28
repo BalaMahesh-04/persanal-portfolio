@@ -65,23 +65,23 @@
     <div class="card">
       <h2>Languages</h2>
       <div class="labels">
-        <span>English</span>
-        <span>Telugu</span>
-        <span>Hindi</span>
+       <ul> <li><span>English</span></li>
+       <li><span>Telugu</span></li>
+        <li><span>Hindi</span></li></ul>
       </div>
     </div>
     <div class="card">
       <h2>Hobbies & Interests</h2>
       <div class="labels">
+        <span>Learning New Technologies</span>
+        <span>Video Games</span>
         <span>Photography</span>
-        <span>Chess</span>
-        <span>Reading Books</span>
       </div>
     </div>
     <div class="card">
       <h2>Contact</h2>
       <ul>
-        <li>Email: <a href="mailto:bala@email.com">bala@email.com</a></li>
+        <li>Email: <a href="mailto:balamaheshkaki04@gmail.com">balamaheshkaki04@gmail.com</a></li>
         <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></li>
         <li>GitHub: <a href="https://github.com/BalaMahesh-04" target="_blank">github.com/BalaMahesh-04</a></li>
       </ul>
