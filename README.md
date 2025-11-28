@@ -8,7 +8,7 @@
 <body>
   <header>
     <h1>BalaMahesh</h1>
-   <p>Fresher | Aspiring Software Developer | Computer Science</p>
+   <p>Fresher | Aspiring Software Developer | Computer Science(AI&ML)</p>
   </header>
   <main>
     <div class="card">
@@ -18,7 +18,9 @@
     <div class="card">
       <h2>Education</h2>
       <ul>
-        <li><strong>B.Tech, Computer Science</strong> — ABC College, 2021-2025 (CGPA: 8.2)</li>
+        <li><strong>B.Tech, Computer Science Engineering (AI &ML)</strong> — Dadi Institute Of Engineering And Degree Collage,Anakapalle, 2022-2026 (CGPA:7.62)</li>
+        <li><strong>B.Tech, Computer Science Engineering (AI &ML)</strong> — Dr.Hima Sekhar Junior And Degree Collage,Anakapalle, 2020-2022 (Percentage-72)</li>
+        <li><strong>10th, Board of secondary Education</strong> — Z.P.High School, Vadrapalle, 2029-2020 (Percentage-92)</li>
       </ul>
     </div>
     <div class="card">
@@ -49,7 +51,7 @@
     <div class="card">
       <h2>Certifications</h2>
       <ul>
-        <li>Python For Everybody (Coursera)</li>
+        <li>Python (Infosis Spring Board)</li>
         <li>Web Development Bootcamp (Udemy)</li>
       </ul>
     </div>
