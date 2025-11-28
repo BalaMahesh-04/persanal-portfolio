@@ -8,8 +8,7 @@
 <body>
   <header>
     <h1>BalaMahesh</h1>
-
-    <p>Fresher | Aspiring Software Developer | Computer Science</p>
+   <p>Fresher | Aspiring Software Developer | Computer Science</p>
   </header>
   <main>
     <div class="card">
