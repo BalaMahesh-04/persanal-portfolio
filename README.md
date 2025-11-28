@@ -26,13 +26,13 @@
     <div class="card">
       <h2>Skills</h2>
       <div class="labels">
-        <span>Python</span>
-        <span>Java</span>
-        <span>HTML/CSS</span>
-        <span>C</span>
-        <span>SQL</span>
-        <span>Communication</span>
-        <span>Teamwork</span>
+       <ul><li> <span>Python</span<li> 
+       <li>  <span>Java</span><li> 
+       <li>  <span>HTML/CSS</span><li> 
+       <li>  <span>C</span><li> 
+       <li>  <span>SQL</span><li> 
+       <li>  <span>Communication</span><li> 
+      <li>   <span>Teamwork</span><li> </ul>
       </div>
     </div>
     <div class="card">
