@@ -3,15 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style></style>
- img.{
-  width:💯%;
-  }</style>
+  
 </head>
 <body>
   <header>
     <h1>BalaMahesh</h1>
- <img src="profile.jpg" style="width:100px;height="100px">
+
     <p>Fresher | Aspiring Software Developer | Computer Science</p>
   </header>
   <main>
