@@ -1,4 +1,4 @@
-
+<html></html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -94,4 +94,4 @@
     &copy; 2025 BalaMahesh. Made with ♥ for your professional journey!
   </div>
 </body>
-
+</head></html>
