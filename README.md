@@ -108,13 +108,13 @@
     <div class="card">
       <h2>Send Me a Message</h2>
       <form>
-  <label for="name">Name:</label><br>
+  <label for="name"><u>Name</u>:</label><br>
   <input id="name" name="name" type="text"><br><br>
 
-  <label for="email">Email:</label><br>
+  <label for="email"><u>Email</u>:</label><br>
   <input id="email" name="email" type="email"><br><br>
 
-  <label for="message">Message:</label><br>
+  <label for="message"><u>Message</u>:</label><br>
   <textarea id="message" name="message" rows="4" cols="40"></textarea><br><br>
 
   <button type="submit">Send</button>
