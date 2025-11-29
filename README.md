@@ -3,18 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
- 
+  
 </head>
 <body>
   <header>
-    <h1>BalaMahesh</h1>
+    <h1>BalaMahesh</h1> 
     <p>Fresher | Web Developer | Computer Science (AI & ML)</p>
   </header>
 
   <main>
     <div class="card">
       <h2>About Me</h2>
-      <p>Hi! I'm BalaMahesh, passionate about programming and learning new technologies. I completed my B.Tech in CSE and I'm eager to start my professional journey with innovative teams.</p>
+      <p>Hi! I'm BalaMahesh, passionate about programming and learning new technologies. I completed my B.Tech in Computer Science Machine Learning and I'm eager to start my professional journey with innovative teams.</p>
     </div>
 
 <div class="card">
@@ -61,6 +61,9 @@
         <li>Python (Infosys Springboard)</li>
         <li>Web Development Bootcamp (Udemy)</li>
         <li>HTML & CSS (Guvi)</li>
+        <li>HTML & CSS (Guvi)</li>
+        <li>Google Ai&Ml Virtual Internship (Aicte-Eduskills)</li>
+        <li>AWS Ai&Ml Virtual Internship (Aicte-Eduskills)</li>
       </ul>
     </div>
 
@@ -86,9 +89,9 @@
    <div class="card">
       <h2>Hobbies & Interests</h2>
       <div class="labels">
-        <span>Learning New Technologies</span>
-        <span>Video Games</span>
-        <span>Photography</span>
+       <ul><li> <span>Learning New Technologies</span></li>
+        <li><span>Video Games</span></li>
+        <li><span>Photography</span></li></ul>
       </div>
     </div>
 
@@ -118,11 +121,7 @@
       </form>
     </div>
 
- <div class="card">
-      <a href="https://drive.google.com/file/d/1b9IOmMuWKIvxsdZfDnkGTzOpOvW6UWVD/view?usp=drivesdk" class="download-btn" download>
-        Download Resume PDF
-      </a>
-    </div>
+
   </main>
 </body>
 </html>
