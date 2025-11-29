@@ -87,11 +87,10 @@
         <li>GitHub: <a href="https://github.com/BalaMahesh-04" target="_blank">github.com/BalaMahesh-04</a></li>
          <li>Instagram: <a href="https://www.instagram.com/mahesh__62348?igsh=MXc5a283em0zZXE3OQ==" target="_blank">Balamahesh_62348</a></li>
       </ul>
-      <a href=""C:\Users\ASUS\OneDrive\Desktop\Mahesh resume.pdf"" class="download-btn" download>Download Resume PDF</a>
+      <a href="C:\Users\ASUS\OneDrive\Desktop\Mahesh resume.pdf" class="download-btn" download>Download Resume PDF</a>
     </div>
-  </main>
-  <div class="footer">
-    &copy; 2025 BalaMahesh. Made with ♥ for your professional journey!
-  </div>
+
+
+
 </body>
 </head></html>
