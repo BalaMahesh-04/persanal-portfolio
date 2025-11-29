@@ -85,10 +85,10 @@
         <li>Gmail: <a href="mailto:balamaheshkaki04@gmail.com">balamaheshkaki04@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/kaki-bala-mahesh-3920322b8?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">linkedin.com/in/yourprofile</a></li>
         <li>GitHub: <a href="https://github.com/BalaMahesh-04" target="_blank">github.com/BalaMahesh-04</a></li>
-         <li>Instagram: <a href="https://www.instagram.com/mahesh__62348?igsh=MXc5a283em0zZXE3OQ==" target="_blank">Balamahesh_62348</a></li>
+         <li>Instagram: <a href="https://www.instagram.com/mahesh__62348?igsh=M2Fjc3dwZnZqMHJz" target="_blank">Balamahesh_62348</a></li>
       </ul> </div>
     <div>
-      <a href="C:\Users\ASUS\OneDrive\Desktop\Mahesh resume.pdf "class="download-btn" download>Download Resume PDF</a>
+      <a href="https://drive.google.com/file/d/1b9IOmMuWKIvxsdZfDnkGTzOpOvW6UWVD/view?usp=drivesdk "class="download-btn" download>Download Resume PDF</a>
     </div>
   </main>
 
