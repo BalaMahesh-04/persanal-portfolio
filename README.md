@@ -1,4 +1,4 @@
-
+<!Doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -108,24 +108,25 @@
     <div class="card">
       <h2>Send Me a Message</h2>
       <form>
-        <label for="name">Name:</label><br>
-        <input id="name" name="name" type="text"><br><br>
+  <label for="name">Name:</label><br>
+  <input id="name" name="name" type="text"><br><br>
 
   <label for="email">Email:</label><br>
-        <input id="email" name="email" type="email"><br><br>
+  <input id="email" name="email" type="email"><br><br>
 
   <label for="message">Message:</label><br>
-       
+  <textarea id="message" name="message" rows="4" cols="40"></textarea><br><br>
 
-   <button type="submit">Send</button>
-      </form>
-    </div>
+  <button type="submit">Send</button>
+
+ </form>
+   </div>
 
 
   </main>
 </body>
 
-
+</html>
 
 
 
